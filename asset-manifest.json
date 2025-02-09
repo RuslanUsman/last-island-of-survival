@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/last-island-of-survival/static/css/main.15e82eed.css",
-    "main.js": "/last-island-of-survival/static/js/main.20b6b3b2.js",
+    "main.css": "/last-island-of-survival/static/css/main.37c1dec4.css",
+    "main.js": "/last-island-of-survival/static/js/main.c9a6972d.js",
     "static/media/fa-solid-900.ttf": "/last-island-of-survival/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/logo.jpg": "/last-island-of-survival/static/media/logo.0ca34a4e6beb6343b625.jpg",
     "static/media/fa-brands-400.ttf": "/last-island-of-survival/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -11,12 +11,16 @@
     "static/media/fa-regular-400.woff2": "/last-island-of-survival/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/fa-v4compatibility.ttf": "/last-island-of-survival/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/last-island-of-survival/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "static/media/slick.svg": "/last-island-of-survival/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/last-island-of-survival/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/last-island-of-survival/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/last-island-of-survival/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/last-island-of-survival/index.html",
-    "main.15e82eed.css.map": "/last-island-of-survival/static/css/main.15e82eed.css.map",
-    "main.20b6b3b2.js.map": "/last-island-of-survival/static/js/main.20b6b3b2.js.map"
+    "main.37c1dec4.css.map": "/last-island-of-survival/static/css/main.37c1dec4.css.map",
+    "main.c9a6972d.js.map": "/last-island-of-survival/static/js/main.c9a6972d.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e82eed.css",
-    "static/js/main.20b6b3b2.js"
+    "static/css/main.37c1dec4.css",
+    "static/js/main.c9a6972d.js"
   ]
 }
