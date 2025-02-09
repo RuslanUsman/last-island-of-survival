@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/last-island-of-survival/static/css/main.112705a0.css",
-    "main.js": "/last-island-of-survival/static/js/main.1560ad94.js",
+    "main.css": "/last-island-of-survival/static/css/main.6bbf38aa.css",
+    "main.js": "/last-island-of-survival/static/js/main.ae361c95.js",
     "static/media/fa-solid-900.ttf": "/last-island-of-survival/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/last-island-of-survival/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/last-island-of-survival/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
     "static/media/fa-brands-400.woff2": "/last-island-of-survival/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/fa-regular-400.ttf": "/last-island-of-survival/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/fa-regular-400.woff2": "/last-island-of-survival/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/adrenalin.jpg": "/last-island-of-survival/static/media/adrenalin.725bd2aa0dd44d10009a.jpg",
     "static/media/fa-v4compatibility.ttf": "/last-island-of-survival/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/last-island-of-survival/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/last-island-of-survival/index.html",
-    "main.112705a0.css.map": "/last-island-of-survival/static/css/main.112705a0.css.map",
-    "main.1560ad94.js.map": "/last-island-of-survival/static/js/main.1560ad94.js.map"
+    "main.6bbf38aa.css.map": "/last-island-of-survival/static/css/main.6bbf38aa.css.map",
+    "main.ae361c95.js.map": "/last-island-of-survival/static/js/main.ae361c95.js.map"
   },
   "entrypoints": [
-    "static/css/main.112705a0.css",
-    "static/js/main.1560ad94.js"
+    "static/css/main.6bbf38aa.css",
+    "static/js/main.ae361c95.js"
   ]
 }
