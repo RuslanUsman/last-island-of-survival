@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/last-island-of-survival/static/css/main.37c1dec4.css",
-    "main.js": "/last-island-of-survival/static/js/main.c9a6972d.js",
+    "main.css": "/last-island-of-survival/static/css/main.b7d96fd7.css",
+    "main.js": "/last-island-of-survival/static/js/main.737b73ad.js",
     "static/media/fa-solid-900.ttf": "/last-island-of-survival/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/logo.jpg": "/last-island-of-survival/static/media/logo.0ca34a4e6beb6343b625.jpg",
     "static/media/fa-brands-400.ttf": "/last-island-of-survival/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -16,11 +16,11 @@
     "static/media/slick.ttf": "/last-island-of-survival/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/last-island-of-survival/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/last-island-of-survival/index.html",
-    "main.37c1dec4.css.map": "/last-island-of-survival/static/css/main.37c1dec4.css.map",
-    "main.c9a6972d.js.map": "/last-island-of-survival/static/js/main.c9a6972d.js.map"
+    "main.b7d96fd7.css.map": "/last-island-of-survival/static/css/main.b7d96fd7.css.map",
+    "main.737b73ad.js.map": "/last-island-of-survival/static/js/main.737b73ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.37c1dec4.css",
-    "static/js/main.c9a6972d.js"
+    "static/css/main.b7d96fd7.css",
+    "static/js/main.737b73ad.js"
   ]
 }
