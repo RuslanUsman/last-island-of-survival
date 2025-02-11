@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/last-island-of-survival/static/css/main.32fb7fd1.css",
+    "main.css": "/last-island-of-survival/static/css/main.0845db66.css",
     "main.js": "/last-island-of-survival/static/js/main.291e2cc1.js",
     "static/js/488.81c28765.chunk.js": "/last-island-of-survival/static/js/488.81c28765.chunk.js",
     "static/media/fa-solid-900.ttf": "/last-island-of-survival/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/last-island-of-survival/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/last-island-of-survival/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/last-island-of-survival/index.html",
-    "main.32fb7fd1.css.map": "/last-island-of-survival/static/css/main.32fb7fd1.css.map",
+    "main.0845db66.css.map": "/last-island-of-survival/static/css/main.0845db66.css.map",
     "main.291e2cc1.js.map": "/last-island-of-survival/static/js/main.291e2cc1.js.map",
     "488.81c28765.chunk.js.map": "/last-island-of-survival/static/js/488.81c28765.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32fb7fd1.css",
+    "static/css/main.0845db66.css",
     "static/js/main.291e2cc1.js"
   ]
 }
